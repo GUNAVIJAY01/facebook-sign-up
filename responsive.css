@@ -1,0 +1,13 @@
+@media(max-width:992px)
+{
+
+	.gun{
+	height:15vh;
+	}
+	.bs{
+		margin:0px 0;
+	}
+	.rio{
+		display:none;
+	}
+}

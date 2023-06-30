@@ -1,0 +1,29 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.gun{
+	height:80vh;
+}
+.anish{
+	background-color:#ede6e6c4;
+	height:100vh;
+}
+input{
+	width:100%;
+	border-radius:5px;
+	border:1px solid lightgray!important;
+	padding:10px 15px;
+	outline:none;
+}
+.alita{
+	border-radius:5px;
+}
+.bg{
+	background-color:limegreen;
+	padding:8px 0;
+	font-size:17px;
+	font-weight:bold;
+	border-radius:5px;
+}
